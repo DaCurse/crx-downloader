@@ -1,0 +1,8 @@
+{
+	"base_url": "https://clients2.google.com/service/update2/crx?response=redirect&prodversion=49.0&acceptformat=crx3&x=",
+	"payload": "id={id}&installsource=ondemand&uc",
+	"url_regex": "/detail/[^/]+/([^?]+)?",
+	"extension_folder": "/path/to/your-extensions-folder",
+	"tmp_filename": "./temp.crx",
+	"tmp_folder": "./temp"
+}
